@@ -42,3 +42,5 @@ Pada layar akan ditampilkan script untuk mengisi nilai di sakti.stiki.ac.id seca
 
 * Tekan enter, dan nikamati hidupmu
 
+![masukkan-ke-sakti](img/masukkan-ke-sakti.png)
+
